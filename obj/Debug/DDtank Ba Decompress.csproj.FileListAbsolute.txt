@@ -1,0 +1,29 @@
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\DDtank Ba Decompress.exe.config
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\DDtank Ba Decompress.exe
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\DDtank Ba Decompress.pdb
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\obj\Debug\DDtank Ba Decompress.csproj.AssemblyReference.cache
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\obj\Debug\DDtank_Ba_Decompress.Form1.resources
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\obj\Debug\DDtank_Ba_Decompress.Properties.Resources.resources
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\obj\Debug\DDtank Ba Decompress.csproj.GenerateResource.cache
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\obj\Debug\DDtank Ba Decompress.csproj.CoreCompileInputs.cache
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\obj\Debug\DDtank Ba Decompress.exe
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\obj\Debug\DDtank Ba Decompress.pdb
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\protobuf-net.Core.dll
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\protobuf-net.dll
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\System.Buffers.dll
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\System.Memory.dll
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\zlib.net.dll
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\protobuf-net.xml
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\protobuf-net.Core.xml
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\System.Buffers.xml
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\System.Memory.xml
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\obj\Debug\DDtank Ba Decompress.csproj.CopyComplete
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\DotNetZip.dll
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\DotNetZip.pdb
+C:\Users\Xiaojian\source\repos\DDtank Ba Decompress\DDtank Ba Decompress\bin\Debug\DotNetZip.xml
